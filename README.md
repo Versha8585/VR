@@ -229,27 +229,4 @@
     </script>
 </body>
 </html>
-    <section id="payment">
-        <h2>Ticket Payment</h2>
-        <form>
-            <label for="ticket-type">Select Ticket Type:</label>
-            <select id="ticket-type" name="ticket-type">
-                <option value="general">General Admission - $20</option>
-                <option value="vip">VIP Pass - $50</option>
-            </select>
-
-            <label for="payment-method">Choose Payment Method:</label>
-            <select id="payment-method" name="payment-method">
-                <option value="credit">Credit Card</option>
-                <option value="paypal">PayPal</option>
-                <option value="crypto">Cryptocurrency</option>
-            </select>
-
-            <button type="submit">Proceed to Payment</button>
-        </form>
-    </section>
-# VR TechCon 2025  
-
-![Event Image](pexels-tirachard-kumtanom-112571-887821.jpg)
-
-Welcome to VR TechCon 2025, the ultimate technology and programming conference.
+    
